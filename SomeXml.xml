@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SomeXml>
+  <CompterCollection>
+    <Element manufacturer="Dell"/>
+    <Element manufacturer="HP"/>
+    <Element manufacturer="IBM^H^H^HLenovo"/>
+  </CompterCollection>
+</SomeXml>
